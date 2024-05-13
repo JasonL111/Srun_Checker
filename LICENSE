@@ -186,7 +186,10 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+
+This product uses [figlet.js](https://github.com/patorjk/figlet.js?tab=readme-ov-file), a library used for creating ASCII art from text. `figlet.js` is licensed under the [MIT License](https://mit-license.org/). Copyright (C) 2014-present by Patrick Gillespie and other contributors.
+
+Copyright (C) 2024 JasonL
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
