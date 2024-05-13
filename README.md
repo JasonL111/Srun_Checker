@@ -40,6 +40,8 @@ Refer to the Srun_Hunter README.md, which includes detailed instructions on obta
 Modify the URL and request body in the tryPasswords function to match your specific environment requirements. Detailed comments are included in the script from 'From here' to 'To there' indicating where to make changes.
 
 ## Features
+After running [Srun_Hunter](https://github.com/JasonL111/Srun_Hunter), you will get a bunch of account and passwords. But later some account will change password. So you will need this to know which account is still available.
+It can:
 Reads account and password pairs: From a file named data.csv(you can change it).
 Automates validation: Uses HTTP POST requests to validate credentials.
 Identifies valid accounts: Based on the server's response to the reset requests.
@@ -51,6 +53,9 @@ It might be due to network issues, incorrect account details, or server-side cha
 2. How to resolve script errors?
 
 Make sure all dependencies are installed, and Node.js is correctly set up. Check the console for specific error messages.
+
+3. Why it seems not easy to use?
+That means you don't have JS experience. But don't worry, you can start from [Srun_Hunter](https://github.com/JasonL111/Srun_Hunter). The README file will be much longer and include step-by-step guide.
 
 ## License
 
