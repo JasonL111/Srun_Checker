@@ -50,6 +50,7 @@ Identifies valid accounts: Based on the server's response to the reset requests.
 1. What if it fails to validate a password?
 
 It might be due to network issues, incorrect account details, or server-side changes. Check the account details and try again.
+
 2. How to resolve script errors?
 
 Make sure all dependencies are installed, and Node.js is correctly set up. Check the console for specific error messages.
