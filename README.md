@@ -7,7 +7,7 @@ This software is designed to batch validate stored account credentials to ensure
 - Node.js installed on your machine.
 - Basic knowledge of JavaScript and Node.js environment.
 - Familiarity with `node-fetch`, `fs`, and `readline` modules, as they are used extensively.
-- Your account and password need to be like this, in this form.
+- Your accounts and passwords have to be like this, in this form.
 ```bash
 R2055:8anwkh
 R2056:2uio1u
