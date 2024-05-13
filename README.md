@@ -30,10 +30,7 @@ R2081:iopjaiow
    npm install node-fetch figlet
    ```
 ## Usage
-    To start the validation process, execute the script with Node.js by running:
-    ```bash
     node TC1.0.js
-    ```
 ## Steps to Modify and Run the Program
 If you're unfamiliar with how to modify the program for your environment or retrieve the necessary URL for requests:
 
