@@ -1,6 +1,6 @@
 # Srun_Checker
 
-This software is designed to batch validate stored account credentials to ensure they are still valid. It processes a list of account-password pairs, formatted as "account:password" per line, to verify their validity. Work better for Srun深澜 campus WIFI login. Can also work on other targets.
+This software is designed to batch validate stored account credentials to ensure they are still valid. It processes a list of account-password pairs, formatted as "account:password" per line, to verify their validity. Work better for Srun 深澜 campus WIFI login. Can also work on other targets.
 
 ## Prerequisites
 
